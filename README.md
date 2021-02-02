@@ -36,4 +36,4 @@ print("jhh")
 ```
 [amazon](https://www.amazon.in/)
 [ajo](://www.ajio.chttpsom)
-![image](https://github.com/sreedevisurarapu/sree2/blob/master/sree.jfif)
+![image](https://github.com/sreedevisurarapu/sree2/blob/master/sree.jf
